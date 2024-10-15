@@ -1,0 +1,14 @@
+.productContainer {
+    width: 350px;
+    height: 310px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    flex-wrap: wrap;
+    margin-top: 80px;
+    font-family:cursive;
+}
+
+/* h1 {
+    text-align: center;
+} */
